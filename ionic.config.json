@@ -1,0 +1,7 @@
+{
+  "name": "SoFit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
